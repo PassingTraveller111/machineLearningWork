@@ -14,7 +14,7 @@ pip --version
 
 如果出现`pip`的版本号，则说明安装成功
 
-![QQ_1727244354465](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727244354465.png)
+![QQ_1727244354465](./images/pipVersion.png)
 
 ### 安装jupyter
 
@@ -28,7 +28,7 @@ pip3 install jupyter
 jupyter --version
 ```
 
-![QQ_1727244647680](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727244647680.png)
+![QQ_1727244647680](./images/jupyterVersion.png)
 
 ### 使用终端启动jupyter
 
@@ -38,22 +38,22 @@ jupyter --version
 jupyter notebook
 ```
 
-![QQ_1727244726277](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727244726277.png)
+![QQ_1727244726277](./images/openJupyter.png)
 
 下面就是我们打开jupyter以后看到的页面
 
-![QQ_1727244755265](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727244755265.png)
+![QQ_1727244755265](./images/jupyterHome.png)
 
 ### 使用jupyter打开实验
 
 在代码目录下有三大实验，每个实验有3-4周，以打开第一周的实验为例，找到work目录。
 
-![QQ_1727245924929](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727245924929.png)
+![QQ_1727245924929](./images/week1Lab.png)
 
 全选，然后右键，然后点击open
 
-![QQ_1727245941358](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727245941358.png)
+![QQ_1727245941358](./images/openLab.png)
 
 下面，我们就用jupyter打开了实验
 
-![QQ_1727245954124](/Users/liujingmin/Library/Containers/com.tencent.qq/Data/tmp/QQ_1727245954124.png)
+![QQ_1727245954124](./images/QQ_1727246616250.png)
