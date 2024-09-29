@@ -1,6 +1,11 @@
-本文旨在记录学习吴恩达老师的机器学习实验的过程（课程在b站：https://www.bilibili.com/video/BV1Bq421A74G?p=1&vd_source=43478a57ace1753f8a10a9b342b5e5b6）
+本项目旨在记录学习吴恩达老师的机器学习实验的过程（课程在b站：https://www.bilibili.com/video/BV1Bq421A74G?p=1&vd_source=43478a57ace1753f8a10a9b342b5e5b6）
 
-## 1.安装与使用jupyter
+## 1.本项目的目录结构
+
+下面是本项目的目录结构
+![项目目录结构](./images/QQ_1727595508852.png)
+
+## 2.安装与使用jupyter
 
 ### 安装pip
 
@@ -50,10 +55,12 @@ jupyter notebook
 
 ![QQ_1727245924929](./images/week1Lab.png)
 
-全选，然后右键，然后点击open
+图中的`.ipynb`文件为jupyter文件，这里选中实验一，双击打开
 
-![QQ_1727245941358](./images/openLab.png)
+![QQ_1727595053607](./images/QQ_1727595053607.png)
 
 下面，我们就用jupyter打开了实验
 
 ![QQ_1727245954124](./images/QQ_1727246616250.png)
+
+
