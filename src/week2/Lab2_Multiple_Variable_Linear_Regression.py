@@ -2,6 +2,7 @@ import copy, math
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('./deeplearning.mplstyle')
+# 本节实验尝试计算多个特征情况下的线性回归模型的梯度下降过程
 # 设置了 NumPy 数组的打印精度为 2 位小数，这意味着当打印 NumPy 数组时，数值将显示到小数点后两位。
 np.set_printoptions(precision=2)  # reduced display precision on numpy arrays
 
