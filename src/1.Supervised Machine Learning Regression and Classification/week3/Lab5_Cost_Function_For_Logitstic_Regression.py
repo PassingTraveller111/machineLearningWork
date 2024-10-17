@@ -2,7 +2,7 @@ import numpy as np
 # %matplotlib widget
 import matplotlib.pyplot as plt
 from lab_utils_common import  plot_data, sigmoid, dlc
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 
 
 # 下面是一个训练集示例

@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from IPython.core.display_functions import display
 from ipywidgets import Output
 from plt_overfit import overfit_example, output
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 
 plt.close("all")
 display(output) # display是jupyter的一个包

@@ -2,7 +2,7 @@ import numpy as np
 # %matplotlib widget
 import matplotlib.pyplot as plt
 from lab_utils_common import plot_data, sigmoid, draw_vthresh
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 
 
 # 下面绘制了一个数据集

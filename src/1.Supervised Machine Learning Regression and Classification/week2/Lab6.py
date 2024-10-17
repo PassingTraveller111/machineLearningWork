@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from lab_utils_multi import  load_house_data
 import matplotlib.pyplot as plt
 dlblue = '#0096ff'; dlorange = '#FF9300'; dldarkred='#C00000'; dlmagenta='#FF40FF'; dlpurple='#7030A0';
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 
 X_train = np.array([1.0, 2.0])   #features
 y_train = np.array([300, 500])   #target value

@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from lab_utils_multi import  load_house_data
 import matplotlib.pyplot as plt
 dlblue = '#0096ff'; dlorange = '#FF9300'; dldarkred='#C00000'; dlmagenta='#FF40FF'; dlpurple='#7030A0';
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 # 加载数据集
 X_train, y_train = load_house_data()
 X_features = ['size(sqft)','bedrooms','floors','age']

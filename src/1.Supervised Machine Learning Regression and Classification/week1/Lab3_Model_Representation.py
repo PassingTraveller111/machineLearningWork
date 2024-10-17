@@ -16,7 +16,7 @@ plt.style.use() 函数用于设置绘图的样式。
 './deeplearning.mplstyle' 是一个路径，表示要使用的样式文件的位置。
 这个样式文件可能包含了自定义的颜色、字体、线条样式等设置，以使得绘制的图形具有特定的外观风格。
 """
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 """
 x_train is the input variable (size in 1000 square feet) x是输入变量/特征
 y_train is the target (price in 1000s of dollars) y是目标

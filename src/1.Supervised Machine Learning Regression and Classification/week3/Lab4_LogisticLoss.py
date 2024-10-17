@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from plt_logistic_loss import  plt_logistic_cost, plt_two_logistic_loss_curves, plt_simple_example
 from plt_logistic_loss import soup_bowl, plt_logistic_squared_error
-plt.style.use('./deeplearning.mplstyle')
+plt.style.use('deeplearning.mplstyle')
 
 # 本节实验将尝试使用线性回归的损失函数（平方误差损失 the squared error loss）来处理分类问题
 # 探索为什么不适用于逻辑回归
